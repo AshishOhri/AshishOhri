@@ -1,7 +1,7 @@
 <img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/header.gif" width="100%">
 
 ## Hi there! 👋✨
-I am a machine learning enthusiast who loves to work with and around data. Using data, extracting information from it and building a system which incorporates data and performs the task of predicting or taking decisions (ML) is my kind of thing.
+I am a machine learning enthusiast who loves to work with and around data. Using data, extracting information from it and building a system which incorporates data and performs the task of predicting or taking decisions is my kind of thing.
 <p align="center">
 <a href="https://ashishohri.github.io/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/mouse.png" width="6%"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ashish-ohri/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/linkedin.png" width="5%"></a>&nbsp;&nbsp;&nbsp;&nbsp;
