@@ -1,9 +1,11 @@
 <!-- ### Hi there 👋 -->
 <img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/header.gif" width="100%">
 
-
-<a href="https://ashishohri.github.io/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/globe.png" width="2%"></a>
-
+<a href="https://ashishohri.github.io/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/globe.png" width="5%"></a>
+<a href="https://ashishohri.github.io/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/linkedin.png" width="2%"></a>
+<a href="https://ashishohri.github.io/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/mail.png" width="3%"></a>
+<a href="https://ashishohri.github.io/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/kaggle.png" width="5%"></a>
+<a href="https://ashishohri.github.io/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/medium.png" width="5%"></a>
 
 
 ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=AshishOhri&theme=radical&show_icons=true&count_private=true&hide=stars)
