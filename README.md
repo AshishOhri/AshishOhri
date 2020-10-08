@@ -1,16 +1,5 @@
 <img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/header.gif" width="100%">
 
-## Social Links
-<p align="center">
-<a href="https://ashishohri.github.io/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/mouse.png" width="6%"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ashish-ohri/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/linkedin.png" width="5%"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ashishohri99@gmail.com"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/mail.png" width="6%"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/ashishohri/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/kaggle.png" width="10%"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@ashishohri99/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/medium.png" width="12%"></a>
-</p>
-
-
-
 ## Hi there! 👋✨
 I am a machine learning enthusiast who loves to work with and around data. Using data, extracting information from it and building a system which incorporates data and performs the task of predicting or taking decisions (ML) is my kind of thing.
 <p align="center">
