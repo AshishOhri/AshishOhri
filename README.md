@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/header.gif" width="100%">
+
 ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=AshishOhri&theme=radical&show_icons=true&count_private=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishOhri&langs_count=7&layout=compact&theme=radical)
 
