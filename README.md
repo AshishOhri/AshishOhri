@@ -1,6 +1,12 @@
 <!-- ### Hi there 👋 -->
 <img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/header.gif" width="100%">
 
+
+<a href="https://ashishohri.github.io/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/globe.png" width="2%"></a><a href="https://www.linkedin.com/in/ashish-ohri/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/linkedin.png" width="2%"></a>
+<img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/gmail.png" width="2%">
+<img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/kaggle.png" width="5%">
+<img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/medium.png" width="2%">
+
 ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=AshishOhri&theme=radical&show_icons=true&count_private=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishOhri&langs_count=7&layout=compact&theme=radical)
 
