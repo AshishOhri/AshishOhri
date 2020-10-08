@@ -10,7 +10,7 @@ I am a machine learning enthusiast who loves to work with and around data. Using
 <a href="https://medium.com/@ashishohri99/"><img src="https://github.com/AshishOhri/AshishOhri/blob/main/imgs/icon/medium.png" width="12%"></a>
 </p>
 
-Here are some ideas to get you started:
+### About Me
 
 - 🔭 I’m currently working on creating projects that not only helps in making my learning process fun but also creates a positive impact on the society.
 - 🌱 I’m currently learning to learn 😛. Also, I am learning to read research papers and improve my deep learning and machine learning skills and knowledge.
@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/static/v1?label=&message=Django&color=21541a&logo=django)
 ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=f7e981&logo=mysql)
 
+<br>
+
+### Stats
 ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=AshishOhri&theme=radical&show_icons=true&count_private=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishOhri&langs_count=7&layout=compact&theme=radical)
 
